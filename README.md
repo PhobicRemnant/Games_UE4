@@ -1,6 +1,6 @@
 # UE4 Projects and Tools
 
-This repo is dedicated to storing any useful UE4 code to keep in inventory for game development. The idea is to be able to generate multiple solutions for gameloops.
+This repo is dedicated to storing any useful UE4 code to keep in inventory for game development. The idea is to be able to generate multiple solutions for gameloops. Most these programs were done in a GameDev.tv course, so they have their respective file.
 
 Currently this has:
 
